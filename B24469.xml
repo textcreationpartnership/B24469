@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the inhabitants of the county of Dorset presented to His Maiesty at Ragland the 8th of July, 1645, with His Majesties gratious answer thereunto.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24469</idno><idno type="EEBO-CITATION">31355307</idno>
+  <idno type="VID">205861</idno>
+  <idno type="EEBO-PROQUEST">2240902798</idno>
+  
+            <idno type="STC">Wing H3515</idno>
+            <idno type="OCLC">31355307</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the inhabitants of the county of Dorset presented to His Maiesty at Ragland the 8th of July, 1645, with His Majesties gratious answer thereunto.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Dorset (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205861:1"/>
+            <p>THE HVMBLE PETITION OF THE INHABITANTS of the County of <hi>DORSET,</hi> PRESENTED TO HIS MAIESTY AT RAGLAND THE 8<seg rend="sup">th</seg> of JULY, 1645.</p>
+            <p>WITH <hi>HIS MAJESTIES</hi> Gratious Answer thereunto.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to <hi>the Vniversity.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205861:2"/>
+            <pb n="1" facs="tcp:205861:2"/>
+            <head>To the KING'S most Excellent MAjESTY. The Humble Petition of the distressed Protestant Inhabitants of the County of DORSET,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Petitioners, since these unhappy Civill Warres, having in a deeper measure then other Subjects of this Kingdome, suffered by meanes of the many Garrisons within this little County, (they being tenne in number) and the Armies yearely drawn into these parts by reason thereof, did lately hope (whilest the Treaty between Your <hi>Majesty</hi> and the two Houses of Parliament continued) once again to have been restored to the blessing of Peace▪ by an happy accommodation of the present dif<g ref="char:EOLhyphen"/>ferences without further effusion of Christian blood.</p>
+            <p>But finding such their great hopes to be frustrate, and having too too just cause to feare that they are not yet brought to the ex<g ref="char:EOLhyphen"/>tremity of miseries, which the continuance of this Warre will in all probability produce; and conceiving that nothing under God can reduce this miserably divided Nation unto any proportion of it's former happinesse save only an unbloody accommodation,</p>
+            <p>Doe most humbly beseech your most Excellent <hi>Majesty,</hi> to lend your favourable eare to the renewing of a Treaty for Peace, when it shall be proposed to Your <hi>Majesty</hi> by the two Houses of Parliament, (for the proposall whereof, the Petitioners have made their addresses unto them) that before this wretched King<g ref="char:EOLhyphen"/>dome, through the divisions and debility thereof, be made a Prey for a Forraigne Nation, such a Peace may be established therein, as may be for the glory of God, the maintenance of the true refor<g ref="char:EOLhyphen"/>med Protestant Religion, Your <hi>Majesties</hi> Royall Person, Honour and Estate, the Power and Priviledges of Parliament, and the Lawfull Rights and Liberties of your Subjects.</p>
+            <p>And they likewise humbly beseech Your <hi>Majesty,</hi> that during such Treaty, Your Majesty will be gratiously pleased to consent
+<pb n="2" facs="tcp:205861:3"/> to a Cessation of Armes on your Majesties part, (in case the said two Houses of Parliament shall doe the same) that a Treaty ten<g ref="char:EOLhyphen"/>ding to Peace may not proceed in Blood.</p>
+            <p>But if Almighty God hath decreed the farther scourging of this Nation (being not hitherto fitted for so great a mercy, as the enjoyment of Peace) by the continuance of these Civill Warres, and by consequence thereof, a necessity ensue of keeping some of the Garrisons within this County for the defence of the same, Your distressed suppliants (who are not able any longer to subsist un<g ref="char:EOLhyphen"/>der the intollerable burthen of contrary Commands of the said Garrisons, and of the Armies aforesaid) who by Contributions, Taxes, Free quarter and Plunder have scarcely left Your Pe<g ref="char:EOLhyphen"/>titioners sustenance for themselves▪ much lesse any ability of sup<g ref="char:EOLhyphen"/>plying the Souldiers farther necessities, or arbitrary demands,</p>
+            <p>Most humbly beseech Your sacred <hi>Majesty,</hi> with your wonted eye of Clemency so to reflect upon the miseries of the Petitioners Your distressed Subjects of this Your County as to condescend to the intrusting in their hands, so many of Your Garrisons, held by any of Your Majesties forces therein, as shall be thought necessary to be continued (in case Your said Two Houses of Parliament shall upon Your Subjects Petition to them in that behalfe doe the like for the Garrisons in their hands) to be maintained at the charges of the Petitioners, and not by them to be delivered up un<g ref="char:EOLhyphen"/>to any Person or Persons whatsoever, but unto such only as by the joynt consent of Your Majesty, and the said two Houses of Parliament, shall be authorized to receive the same.</p>
+            <p>And they humbly pray that, during their service in maintain<g ref="char:EOLhyphen"/>ing the said Garrisons. Your Majesty will be pleased gratiously to exempt the Petitioners from all manner of Payments, and o<g ref="char:EOLhyphen"/>ther Charges towards these Warres.</p>
+            <p>And for as much as many wicked and lewd Persons▪ taking advantage of those times of distemper to the great dishonour of Almighty God, and Scandall of Your <hi>Majesties</hi> Government, doe dayly commit many haynous offences against God and the established Lawes of this Your Realme, and through want of execution of Justice escape unpunished.</p>
+            <p>Your Petitioners farther humbly beseech Your most Excellent: <hi>Majesty,</hi> That the Acts of Parliament which stand unrep<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d may be presently put in Execution against the Offendors, by such
+<pb n="3" facs="tcp:205861:3"/> Officers as by the same Acts are enabled thereunto, without di<g ref="char:EOLhyphen"/>sturbance of those Officers in the due execution thereof▪ and that Your <hi>Majesty</hi> will be graciously pleased, that all such Persons as either are, or have been in Armes, or otherwise assistant unto either Party in these unhappy Warres, may be permitttd (if they shalt desire it) to lay downe their Armes, and to returne to their wonted Habitations, that the like favour to returne may be gran<g ref="char:EOLhyphen"/>ted unto all others who for feare of either Party have absented themselves from the places of their usuall abode, or which by rea<g ref="char:EOLhyphen"/>son of their affection to either Party are imprisoned, or other<g ref="char:EOLhyphen"/>wise restrained of their liberty.</p>
+            <p>And least any misconstruction may be made of Your Petitio<g ref="char:EOLhyphen"/>ners intents in assembling themselves at severall places of this Your Countie.</p>
+            <p>They humbly remonstrate unto Your Most Excellent <hi>Maje<g ref="char:EOLhyphen"/>sty,</hi> That their aymes therein have been for no other ends, save onely to represent their great grievances by way of humble Peti<g ref="char:EOLhyphen"/>tion to Your Sacred <hi>Majesty,</hi> and to the two Houses of Parlia<g ref="char:EOLhyphen"/>ment, and to associate themselves (as they humbly conceive they lawfully may) for the maintenance of the true Reformed Pro<g ref="char:EOLhyphen"/>testant Religion, the preservation of their Lawes, Liberties, and Properties▪ against all Plunderers, and all other unlawfull Violence, untill it shall please Almighty God to put a period to these sad Distractions.</p>
+            <p>Which that it may speedily be effected, Your <hi>Majesties</hi> most humble Petitioners with humble hearts and bended knees, shall not be wanting daily to invocate the God of Peace▪ and to pray for Your <hi>Majesties</hi> long and prosperous Raigne over Ʋs.</p>
+            <closer>
+               <signed>This Petition is subscribed by above ten Thousand of Your MAjESTIES Loyall Subjects of this County, not in Armes on either Party in the present Warres.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This is a true Copy, as it was presented by us unto His MAjESTY,</hi>
+                  <date>
+                     <hi>the 8<seg rend="sup">th</seg> day of</hi> July, <hi>1645.</hi>
+                  </date>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>HENRY GOCHE.</hi>
+                        </item>
+                        <item>
+                           <hi>THO: YONGE.</hi>
+                        </item>
+                        <item>
+                           <hi>PETER HOSKINS.</hi>
+                        </item>
+                        <item>
+                           <hi>THO: <gap reason="illegible" resp="#keyers" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>▪</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:205861:4"/>
+            <opener>
+               <dateline>At the Court at <hi>RAGLAND,</hi>
+                  <date>July the <hi>9<seg rend="sup">th</seg>, 1645.</hi>
+                  </date> By His Majesties speciall Directions and Command.</dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>IS Majesty being himselfe so deeply afflicted with the Miseries and Calamities brought up<g ref="char:EOLhyphen"/>on all His poore Subjects in generall by this unnaturall Warre, doth not at all wonder, that the grievous and most particular sufferings of the Inhabitants of the County of <hi>Dorset,</hi> should urge them to seek ease and reliefe, though by wayes lesse regular, and being entirely perswaded that their intenti<g ref="char:EOLhyphen"/>ons in their late assemblies, and in this their present addresse to His <hi>Majesty</hi> are full of Duty and Loyalty to His Person and Government, is so farre from reprehending them, that He is very glad to find so many of His good Subjects united in a joynt and hearty sense of the publick, and that by this particular ap<g ref="char:EOLhyphen"/>plication of themselves to His <hi>Majesty</hi> they have afforded him the meanes to informe them more particularly of the Justice of His Cause, and of His sincere and constant desires and endea<g ref="char:EOLhyphen"/>vours for Peace, then appeares by their profest neutrality hi<g ref="char:EOLhyphen"/>therto they have been; which that he may the better doe, and that there may thereby be wrought a perfect Vnion and Con<g ref="char:EOLhyphen"/>junction betwixt His <hi>Majesty</hi> and those who professe to be so sincerely affected with the same Pious desires of the pub<g ref="char:EOLhyphen"/>lick good, His <hi>Majesty</hi> will very speedily send unto the Petiti<g ref="char:EOLhyphen"/>oners, or unto such as they shall depute within the said County, Persons further instructed in the Course of all His <hi>Majesties</hi> former proceedings, and of His present Resolutions, and in the meane time as an instance of His Gracious Intentions towards the Petitioners, He is pleased to give these particular Answers to their severall desires.</p>
+            <p>To the first, That when ever Propositions of Peace shall be made unto His <hi>Majesty</hi> by those at <hi>Westminster,</hi> His Eares shall be alwayes open unto them, and He not onely ready to receive them, but even to seek and solicite for them, when ever He can probably Iudge that they will not reject His Overture, whereof the Petitioners need make no doubt, His <hi>Majesty</hi> having neglected no occasion to invite them to a Treaty of
+<pb n="5" facs="tcp:205861:4"/> Peace, the blessing whereof was never more to be implored of Al<g ref="char:EOLhyphen"/>mighty God, nor to be more industriously endeavoured by all good men, then at this time, when without it (as the Petitioners well observe) this Kingdom is likely to be made the prey of a Forreigne Nation; The <hi>Scots</hi> being at this present advanc't with an Army so farre into the heart of this Kingdome, as already to threaten even the <hi>Westerne</hi> parts; And His <hi>Majesty</hi> doth further promise in the Word of a King, that if a Treaty may be procured, He will seek no other Conditions of Peace then those mentioned by the Petitio<g ref="char:EOLhyphen"/>ners, that is, The glory of God in the maintenance of the true Re<g ref="char:EOLhyphen"/>formed Protestant Religion, The Iust and inseparable Rights of the Crowne, The Iust Power and Priviledges of Parliament, and the Lawfull Rights and Liberty of the Subject; and all these, under none of those Ambiguous termes, whereby the contrary Party have deluded and misled so many of his good Subjects, pretending that they fight for the same, but making the knowne Lawes of the Land (which cannot deceive) the measure of each particular.</p>
+            <p>To the second His <hi>Majesty</hi> doth promise, That, if a Treaty may be procured, He will earnestly desire a Cessation of Arms, (as he did in the last at <hi>Ʋxbridge,</hi> though to His great griefe not consented unto by the other Party) to the end that a Treaty tending to Peace may not proceed in Bloud; And His <hi>Majesty</hi> desires the Book of the said Treaty at <hi>Ʋxbridge,</hi> be read to the Petitioners for their satisfaction in this Point, and the manifestation of His sincere de<g ref="char:EOLhyphen"/>sires of Peace.</p>
+            <p>To the third, That in Case for the sinnes of the Nation, the obsti<g ref="char:EOLhyphen"/>nacy of the other Party cannot be overcome, but that His <hi>Majesty</hi> and His People must yet be further Scourged by Gods afflicting hand of Warre, that His <hi>Majesty</hi> is so deeply sensible of his Suppli<g ref="char:EOLhyphen"/>ants, and all His other good Subjects Sufferings, by Contributions, Taxes, Free-Quarter, and Plunder, that whatsoever can be done on His <hi>Maiesties</hi> part in the three first by all the moderation that can possibly be used, and to the latter, by the severest Iustice, shall be carefully and effectually endeavoured; As for the point of trust<g ref="char:EOLhyphen"/>ing in the Petitioners hands such of His Forts and Garrisons as shall be thought necessary to be continued, His <hi>Maiesty</hi> makes no doubt, but if Peace may not be procured, it shall so evidently appeare un<g ref="char:EOLhyphen"/>to the Petitioners, who have been the Authors, and are the Contri<g ref="char:EOLhyphen"/>vers of their miseries, that they will prove the heartiest Champi<g ref="char:EOLhyphen"/>ons
+<pb n="6" facs="tcp:205861:5"/> of their King's, their owne, and Gods Cause, and consequently be as fit Persons as any that His <hi>Maiesty</hi> can Chuse to be entrusted with what nearliest concernes His Safety, and their Protection▪ but for this particular, as also for the future maintaining of the said Gar<g ref="char:EOLhyphen"/>risons, His <hi>Maiesty</hi> will by those whom he shall employ unto the Petitioners, advise with them of the time and manner how His Service may be done most to their satisfaction.</p>
+            <p>And to the last, that the chiefe calamity of Warre is the silencing of the Lawes, and if it were possible, to uphold their due and cur<g ref="char:EOLhyphen"/>rent execution, the Sword could no longer Rage, but as farre-forth as it is possible, that Military affaires can be govern'd by Legall in<g ref="char:EOLhyphen"/>flictions on offenders, His Majesty is very desirous to give the Peti<g ref="char:EOLhyphen"/>tioners all imaginable satisfaction; but it being a matter of such in<g ref="char:EOLhyphen"/>tricacy, the particular way end Method of it, must be ripened by farther debate. As for the point of leave for all His Majesties mis<g ref="char:EOLhyphen"/>led Subjects, to lay down Armes, and returne to their habitations, there to live unquestioned, and unmolested, It is that whereunto His Majesty hath already many times given more then a permissi<g ref="char:EOLhyphen"/>on, That is, a speciall invitation, by severall gratious Proclamations, which for the Petitioners satisfaction be shall very willingly re<g ref="char:EOLhyphen"/>new. As for the other part, which concernes those at present enga<g ref="char:EOLhyphen"/>ged in His <hi>Maiesties</hi> Service, &amp; those under restraint, His <hi>Maiesty</hi> is too confident of the Petitioners affections to His and His King<g ref="char:EOLhyphen"/>doms Safety, to beleeve (while His Enemies are so strong, &amp; dayly forcing every man to take up Armes against Him, and whil'st a For<g ref="char:EOLhyphen"/>reigne Nation is in the bowells of the Kingdome ready to devoure it) that they would wish Him one man lesse in His Army, or one man more at Liberty to joyne with them.</p>
+            <p>As for all such Persons as are absent from their homes, and not already engaged in His <hi>Maiesties</hi> Service, it shall be very accepta<g ref="char:EOLhyphen"/>ble to His <hi>Maiesty,</hi> that they returne to their owne homes, and tend the service and quiet of their Countries according to the Petitio<g ref="char:EOLhyphen"/>ners desire. And as for all Acts of Parliament and Lawes unrepea<g ref="char:EOLhyphen"/>led in what concernes the Civill Government, as particularly for Assize, Sessions, and the like, The Petitioners undertaking the Protection of His <hi>Maiesties</hi> Ministers of Iustice, His <hi>Maiesty</hi> will issue His Commands unto them all respectively, to performe their constant duties, according to the establisht Lawes.</p>
+            <closer>
+               <signed>GEORGE DIGBY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
